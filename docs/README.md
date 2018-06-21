@@ -28,7 +28,7 @@ This is frowning :frowning:
 [this is the link text](www.google.com)
 
 
-![this is a picture also double as a tool tip text]()
+![this is a picture also double as a tool tip text](Keep calm.jpg)
 can use a url or an images. Images can go in the same folder
 
 
