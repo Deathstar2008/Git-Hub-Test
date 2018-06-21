@@ -27,7 +27,7 @@ This is frowning :frowning:
 
 
 
-[this is the link text](www.google.com)
+[www.google.com](www.google.com)
 
 
 ![](Keep calm.jpg "This is a caption")
