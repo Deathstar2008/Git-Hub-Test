@@ -34,6 +34,20 @@ This is frowning :frowning:
 
 #can use a url or an images. Images can go in the same folder
 
-#This is a link to my python html page
+
+
+
+
+
+#This is a link to my python html page. just save as html in notebook and drop file into docs on github
 
 [link to notebook](Linear regression and optimization.html)
+
+
+
+
+
+
+
+
+
