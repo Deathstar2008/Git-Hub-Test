@@ -11,6 +11,8 @@ This is git hub reop for web content.
 
 *italics*
 
+*This is a quote:*
+
 _Also bold_
 
 * a dot point
@@ -28,7 +30,8 @@ This is frowning :frowning:
 [this is the link text](www.google.com)
 
 
-![this is a picture also double as a tool tip text](Keep calm.jpg)
-can use a url or an images. Images can go in the same folder
+![](Keep calm.jpg "This is a caption")
+
+#can use a url or an images. Images can go in the same folder
 
 
