@@ -11,3 +11,5 @@ This is git hub reop for web content.
 *italics*
 
 _Also bold_
+
+* a dot point
