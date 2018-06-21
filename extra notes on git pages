@@ -1,0 +1,182 @@
+Welcome!
+A common notepad for us to share ideas / solutions / problems
+
+Access this document at http://go.unimelb.edu.au/s626
+
+Your hosts this evening:
+
+Errol Lloyd
+@maegul (twitter)
+errolkjlloyd@gmail.com (email)
+Maegul (GitHub)
+
+Pablo Franco
+@jpablofranco
+pablo.franco.dn@gmail.com
+
+Sign up for git workshops here
+
+Welcome!
+Your Webpages!!
+Examples
+Getting started
+GIF of Getting Online
+Markdown Cheat Sheets
+readme.md
+Alternatives
+
+
+Examples
+Example of online research (Nobel prize winning): https://github.com/gwastro/pycbc
+
+Example of top Github profile: https://github.com/ahnitz
+
+https://maegul.github.io/Publishing_online_meetup/
+
+
+https://maegul.github.io/git-Commands-Cheat-Sheet/
+
+
+
+******
+Please add your URLS here!
+
+
+
+Group Vader (MATLAB) - https://michaelpan92.github.io/GroupVader/
+
+Absolute Power ( R ) - https://danmyles.github.io/Absolute-Power/
+
+wondeRwoman: https://yichaowanguom.github.io/Marriage-Equality/
+
+Python-https://vin-n.github.io/OpenRes2017/ - 
+(contributors: Vindhya Nawaratne(vindhya_naw@yahoo.com.au), Pradeep Rajasekhar(pradeep.rajasekhar@gmail.com), Akira Wang (akira.t.wang@gmail.com), Rylan Gan(rylangan@gmail.com), Irabella Lin(irabella.lin0718@gmail.com), Belle Lim(belle.lim@monash.edu)
+
+
+
+GIF of Getting Online
+https://maegul.github.io/DataViz_web_plotly_cheat_sheet/github_pages_gif.html
+Getting Online with GitHub
+Git: allows version control / history tracking.
+Repository: like a folder, to store files, sub-folders, images, spreadsheets, data, etc online.
+View the GitHub guide to getting started at: https://guides.github.com/activities/hello-world
+
+Go to https://github.com/ 
+Click Sign in (top right)
+There should be a + next to your profile icon (top right), click this to add a repository.
+Give your repository a name, choose whether it is public (accessible to all) or private and check the box to Initialize with a readme.
+Start typing Markdown in the readme.md file! (see below for an example)
+If returning to a previously created file in your repository, click the little pencil image to edit / continue working on it.
+Once you have some Markdown text in your readme.md, go to the Settings tab.
+Scroll down to GitHub Pages.
+Select the master branch as the Source
+Save and return to Settings, GitHub Pages to see the url link for your new webpage (yay!)
+Scroll down a little further under Settings, GitHub Pages to choose a theme, because you want your webpage to look pretty (yes please!)
+If, like Errol, you are “too cool for school”, you can choose the Slate theme.
+Notice that a .yml file has been added to your repository. You can use the pencil icon to edit this.
+
+NB - The file the becomes the home page of your webpage must be either
+	Readme.md
+	Index.html
+Markdown Cheat Sheets
+Good Cheat Sheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+GitHub Guide (incl GHM)
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+Original Markdown Cheat Sheet
+https://daringfireball.net/projects/markdown/basics
+readme.md
+# Main Heading
+This will be my web page.
+
+## Sub-heading
+Use the hash-key to make sub-headings.
+
+### Sub-sub-heading
+Some text here.
+
+Start a new paragraph by leaving a blank line in between lines of text.
+Leave no space to have text on the same line.  
+Leave two spaces at the end of the previous line to print text on new line without starting a paragraph.
+
+## Formatting
+Among standard text, we can include _italisiced text_  and also __bold text__, using underscores.
+
+> This is a quote
+> Quotes start with a greater than symbol and are formatted specially (usually indented).
+
+Here is some code in-line: `code`.
+
+This is a block of code:
+```
+if you see me around after OpenRes then:
+	print(“hello”)
+```
+
+Highlight syntax for Python code:
+```python
+# we can also print comments
+if you see me around after OpenRes then:
+	print(“hello”)
+```
+
+## Lists
+* item on my unordered list
+* another item
+* this is a sub-list item, it is indented by a tab
+
+Now for an ordered list:
+1. item 1 in my ordered list
+1. item 2 -- Markdown will label this as 2.
+	1. sub-item of ordered list will be indexed as i. when processed.
+	1. sub-item ii.
+1. return to main ordered list with item 3.
+
+## Links and images
+
+A link to Google:
+[Text displayed in link](www.google.com “Hover-over text -- this is optional”)
+
+An image (saved in figures folder), notice that it begins with an exclamation mark:
+![Text displayed for visually impaired](figures/image_file_name.png “Hover-over text -- optional”)
+
+An image not saved in a figures folder:
+![Text displayed for visually impaired](image_file_name.png “Hover-over text -- optional”)
+
+To change the image size, use html code:
+<img src="figures/image_file_name.png" width='50%'>
+
+## Emojis
+
+Here is the GitHub icon :octocat:
+To see a list of supported images, check out www.emoji-cheat-sheet.com
+
+Alternatives
+
+Figshare
+Allows more storage space than GitHub.
+If you have a unimelb or monash account, you already have a figshare account!
+https://figshare.com/ click Log in, then select Institutional account?
+
+Direct link to Melbourne Figshare: https://melbourne.figshare.com
+
+Html as an alternative
+You may be able to type/convert your code into html from your tool.
+You can save html code for a website into your GitHub repository with the file name index.html
+
+Jupyter
+
+
+See NBConvert - https://nbconvert.readthedocs.io/en/latest/
+
+RStudio
+
+https://jpfranco123.github.io/reticulate/
+
+Giving Repos DOIs
+
+Guide to putting a DOI on your repo
+
+Zenodo Home Page
