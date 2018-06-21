@@ -1,6 +1,7 @@
 To load a python file into git hub save the python file as a html doc and drop it into the docs directory which 
 is the folder that you are makeing the web page from. i.e. in settings and source where you choose which folder. 
 
+The page content must be in README.md where readme.md is case sensitive.
 
 
 
